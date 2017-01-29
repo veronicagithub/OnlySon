@@ -1,0 +1,76 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/ONLY SON/[_2_]PORTADA.png" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="194" ancho_px="270" alto="100" ancho="100" rotation="0" posy="345" posx="14" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="36" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="36" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">NEW WORDS</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="C - R - O - S - S" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]una-cruz-en-la-montana_2853500.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]C-R-O-S-S.mp3" alto_px="260" ancho_px="240" alto="208.47" ancho="322.09" rotation="0" posy="2" posx="0" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="D - E - E - R" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]deer.jpg" sonido="galeria/sonidos/cuadernia/CAJA RONCA/[_2_]D-E-E-R.mp3" alto_px="260" ancho_px="240" alto="210.39" ancho="321.25" rotation="0" posy="-4" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="F - O -R - E - S - T" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]BOSQUE17139065.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]F-O-R-E-S-T.mp3" alto_px="260" ancho_px="240" alto="209.62" ancho="320.42" rotation="0" posy="0" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="K - E - E - P - E - R" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]guardian.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]K-E-E-P-E-R.mp3" alto_px="260" ancho_px="240" alto="210.77" ancho="322.09" rotation="0" posy="1" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="M - E - A - N - I -E" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]meane.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]M-I-N-I-E.mp3" alto_px="260" ancho_px="240" alto="210.39" ancho="320" rotation="0" posy="0" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="P - U - N - I - S - H" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]punish.png" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]P-U-N-I-S-H.mp3" alto_px="260" ancho_px="240" alto="208.47" ancho="319.59" rotation="0" posy="2" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="R - O - P - E" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]rope.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]R-O-P-E.mp3" alto_px="260" ancho_px="240" alto="210" ancho="321.25" rotation="0" posy="4" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="D - R - A - G" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]ARRASTRAR HACIA VOLCAN 11.png" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]D-R-A-G.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="320.84" rotation="0" posy="2" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="9b"/>
+  <pagina locked="0" id="10">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="B - E - E - T - L - E" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]BEETLE.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]B--E-E-T-L-E.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="320.42" rotation="0" posy="1" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="10b"/>
+  <pagina locked="0" id="11">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="T  - O - W - N" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]tulumba-nsr04.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]T-O-W-N.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="320.42" rotation="0" posy="4" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="11b"/>
+  <pagina locked="0" id="12">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="G - O - A - T" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]goat.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]G-O-A-T.mp3" alto_px="260" ancho_px="240" alto="213.47" ancho="320" rotation="0" posy="-1" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="12b"/>
+  <pagina locked="0" id="13">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="M - U - L - E" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]mule.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]M-U-L-E.mp3" alto_px="260" ancho_px="240" alto="210.77" ancho="320.84" rotation="0" posy="2" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="13b"/>
+  <pagina locked="0" id="14">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="S - I - N" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]SIN_1.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]S - I - N.mp3" alto_px="260" ancho_px="240" alto="210.39" ancho="320.84" rotation="0" posy="0" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="14b"/>
+  <pagina locked="0" id="15">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="H - E - L - L" imagen="galeria/imagenes/cuadernia/ONLY SON/[_2_]infierno.jpg" sonido="galeria/sonidos/cuadernia/ONLY SON/[_2_]H - E- L -L.mp3" alto_px="260" ancho_px="240" alto="209.24" ancho="321.25" rotation="0" posy="2" posx="2" tipo="audio" src="6"/>
+  </pagina>
+</fundacion>
